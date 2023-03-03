@@ -1,3 +1,1 @@
-module.exports = async (bot, interaction) => {
-
-};
+module.exports = async (bot, interaction) => {};

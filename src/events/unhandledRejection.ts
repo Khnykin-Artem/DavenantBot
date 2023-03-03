@@ -1,4 +1,4 @@
 'use strict';
 module.exports = (bot, err) => {
-    console.error(err);
+  console.error(err);
 };
